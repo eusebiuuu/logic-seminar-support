@@ -12,10 +12,10 @@
 			1. ???
 2. Learning
 	1. Plan
-		1. Set the topics list
+		1. Set the topics list and find lessons and exercises for each one
 		2. Go through each topic
-			1. Find lessons
-			2. Solve problems or exercises
+			1. Go through the lessons
+			2. Solve the exercises
 	2. Topics
 		1. ???
 3. Projects
